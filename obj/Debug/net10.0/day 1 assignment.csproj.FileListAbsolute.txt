@@ -1,0 +1,14 @@
+D:\.net backend\day 1 assignment\bin\Debug\net10.0\day 1 assignment.exe
+D:\.net backend\day 1 assignment\bin\Debug\net10.0\day 1 assignment.deps.json
+D:\.net backend\day 1 assignment\bin\Debug\net10.0\day 1 assignment.runtimeconfig.json
+D:\.net backend\day 1 assignment\bin\Debug\net10.0\day 1 assignment.dll
+D:\.net backend\day 1 assignment\bin\Debug\net10.0\day 1 assignment.pdb
+D:\.net backend\day 1 assignment\obj\Debug\net10.0\day 1 assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net backend\day 1 assignment\obj\Debug\net10.0\day 1 assignment.AssemblyInfoInputs.cache
+D:\.net backend\day 1 assignment\obj\Debug\net10.0\day 1 assignment.AssemblyInfo.cs
+D:\.net backend\day 1 assignment\obj\Debug\net10.0\day 1 assignment.csproj.CoreCompileInputs.cache
+D:\.net backend\day 1 assignment\obj\Debug\net10.0\day 1 assignment.dll
+D:\.net backend\day 1 assignment\obj\Debug\net10.0\refint\day 1 assignment.dll
+D:\.net backend\day 1 assignment\obj\Debug\net10.0\day 1 assignment.pdb
+D:\.net backend\day 1 assignment\obj\Debug\net10.0\day 1 assignment.genruntimeconfig.cache
+D:\.net backend\day 1 assignment\obj\Debug\net10.0\ref\day 1 assignment.dll
